@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+43
+"P1T8 blood presure Maked by Andres Torres"
+4
+1
+30
+"imput the systolic preasure "
+5
+1
+8
+systolic
+7
+0
+1
+11
+systolic<=0
+7
+0
+1
+13
+systolic>=120
+7
+0
+1
+14
+sustolic>=140 
+7
+0
+1
+13
+systolic>=150
+4
+1
+23
+"Runnnn to the hospial"
+13
+4
+1
+22
+"You are  ipertension"
+13
+13
+4
+1
+25
+"You are pre ipertension"
+13
+13
+4
+1
+16
+"You are normal"
+13
+13
+4
+1
+14
+"you are dead"
+13
+1

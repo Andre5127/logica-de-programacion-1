@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+38
+"P1T17 salary maked by Andres Torres" 
+4
+1
+19
+"imputh the salary"
+5
+1
+6
+salary
+4
+1
+23
+"imput the days worked"
+5
+1
+4
+days
+7
+0
+1
+19
+days<1 and  days>30
+6
+1
+6
+salary
+16
+(salary/30)*days
+4
+1
+25
+"your salary is $",salary
+13
+4
+1
+7
+"Error"
+13
+1

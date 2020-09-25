@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+72
+"P1T6 comparen birth of two persons maked by Andres Felpie Torres Lopez"
+4
+1
+47
+"imput the first year of birth of first person"
+5
+1
+5
+yearA
+4
+1
+49
+"imput the second year of birth of second person"
+5
+1
+5
+yearB
+7
+0
+1
+11
+yearA=yearb
+7
+0
+1
+11
+yearA>yearB
+4
+1
+41
+"the person B is older than the person A"
+13
+4
+1
+41
+"the person A is older than the person B"
+13
+13
+4
+1
+34
+"the two persons are the same age"
+13
+1
